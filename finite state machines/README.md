@@ -5,7 +5,7 @@
 ## Finite Automaton
 
 An FA is described by its states and its transitions: each transition for a state specifies an input and what state in the FA that input leads to. An FA can be illustrated as a graph with state labels in circles and edge labels for transitions.
-![alt text](https://github.com/author09/python/blob/master/finite%20state%20machines/dfa_.png "dfa illustration")
+![alt text](https://github.com/author09/python/blob/master/finite%20state%20machines/dfa.png "dfa illustration")
 
 ### Objective
 Read a file representing a finite automaton: indicating its states and input->state transitions. A file containing the lines mentioned below represents the FA drawn above.
