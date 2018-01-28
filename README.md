@@ -1,6 +1,6 @@
 # python
 
-# contains python implementations of known algorithms as solutions to specific problems. (Codes written in jupyter notebook)
+### contains python implementations of known algorithms as solutions to specific problems. (Codes written in jupyter notebook)
 
 
 ## Influencer Algorithm:
